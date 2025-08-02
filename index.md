@@ -10,5 +10,5 @@ permalink: /
 
 ## ポリシー一覧
 
-- [プライバシーポリシー](chokotopi/privacy-policy)
-- [利用規約](chokotopi/terms-of-service) 
+- [プライバシーポリシー](/weekend.github.io/chokotopi/privacy-policy/)
+- [利用規約](/weekend.github.io/chokotopi/terms-of-service/) 
