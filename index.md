@@ -4,5 +4,5 @@
 
 ## ポリシー一覧
 
-- [プライバシーポリシー](docs/chokotopi/privacy-policy.md)
-- [利用規約](docs/chokotopi/terms-of-service.md) 
+- [プライバシーポリシー](chokotopi/privacy-policy)
+- [利用規約](chokotopi/terms-of-service) 
