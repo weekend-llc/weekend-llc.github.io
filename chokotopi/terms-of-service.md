@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 利用規約
-permalink: /weekend.github.io/chokotopi/terms-of-service/
+permalink: /chokotopi/terms-of-service/
 ---
 
 # 利用規約

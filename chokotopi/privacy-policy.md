@@ -1,7 +1,7 @@
 ---
 layout: default
 title: プライバシーポリシー
-permalink: /weekend.github.io/chokotopi/privacy-policy/
+permalink: /chokotopi/privacy-policy/
 ---
 
 # プライバシーポリシー
